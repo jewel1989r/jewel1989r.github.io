@@ -90,11 +90,15 @@ a:active {
 }
 
 #contact-details .header_1 img {
+	width:180px;
+	height: 180px;
 	border: #fff solid 4px;
+	border-radius:150px;
+	-moz-border-radius:150px;
+	-webkit-border-radius:150px;
 	background: url("../images/bg_img_light_blue.png"); 
 	padding: 4px;
 	margin: 10px 0px 0px 0px;
-	background: #fff;
 }
 
 #contact-details .header_2 {
